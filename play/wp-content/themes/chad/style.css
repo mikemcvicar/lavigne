@@ -538,6 +538,22 @@ transition: all .75s ease-in-out;
 	margin-left: -205px;
 	top: 40px;
 }
+.blog .open .wp-post-image{
+	display: none;
+}
+a.rslides_nav{
+	color: #000;
+	font-family:'TradeGothicW02-BoldCn20 675505';
+	text-transform: uppercase;
+	font-size: 12px;
+
+}
+a.rslides_nav.prev{
+	float: left;
+}
+a.rslides_nav.next{
+	float: right;
+}
 .bio-big{
 	float: left;
 	overflow: hidden;

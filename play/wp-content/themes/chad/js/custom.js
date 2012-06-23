@@ -118,13 +118,14 @@
 			}
 			
 		 });
-		 
+ 		jQuery('.rslides').responsiveSlides({
+			auto: false,
+			nav: true
+		});
 		  jQuery('.play-thumb').click(function(event) {
 			event.preventDefault();
-			
-			jQuery(this).parent('.box').find('.open').fadeIn(400, function(){
-				jQuery('.rslides').responsiveSlides();
-			});
+			jQuery('#sidebar').css({"z-index":"0"});
+			jQuery(this).parent('.box').find('.open').fadeIn();
 			jQuery(this).parent('.box').find('.close').fadeIn();
 			
 			
@@ -144,7 +145,7 @@
 		 });
 		 
 		jQuery('.close').click(function() {
-			
+			jQuery('#sidebar').css({"z-index":"1"});
 			jQuery('.open').fadeOut();
 			jQuery('.close').fadeOut();
 		});	
