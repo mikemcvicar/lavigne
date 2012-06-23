@@ -519,19 +519,24 @@ transition: all .75s ease-in-out;
 }
 .open{
 	z-index: 9999;
-	position: absolute;
+	position: fixed;
 	top: 0;
 	float: left;
-
+	left: 0;
+	width: 100%;
+	height: 100%;
+	
 }
 .open .dude{
-	position: relative;
+	position: absolute;
 	z-index: 9;
 	background: #ffffff;
 	padding: 15px;
 	float: left;
 	color: #000;
-	margin: 0 auto;
+	left: 50%;
+	margin-left: -205px;
+	top: 40px;
 }
 .bio-big{
 	float: left;
