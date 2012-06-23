@@ -121,8 +121,14 @@
 		 
 		  jQuery('.play-thumb').click(function(event) {
 			event.preventDefault();
-			jQuery(this).parent('.box').find('.open').fadeIn();
+			
+			jQuery(this).parent('.box').find('.open').fadeIn(400, function(){
+				jQuery('.rslides').responsiveSlides();
+			});
 			jQuery(this).parent('.box').find('.close').fadeIn();
+			
+			
+			
 			var open = jQuery(this).parent('.box').find('.open').height();
 			console.log(open);
 			
