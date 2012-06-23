@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Chad Lavigne</title>
+	<link rel="stylesheet" href="http://chadlavigne.com/play/wp-content/themes/chad/style.css" />
+	<script type="text/javascript" src="js/jquery-1.6.1.min.js"></script>
+	<script type="text/javascript">
+	function preload(arrayOfImages) {
+   			jQuery(arrayOfImages).each(function(){
+        	jQuery('<img/>')[0].src = this;
+    	});
+	}
+
+
+
+	preload([
+    	'images/final-frame-work.jpg',
+    	'images/final-frame-play.jpg',
+    	'images/final-frame-case.jpg',
+    	'images/final-frame-clients.jpg',
+    	'images/final-frame-contact.jpg'
+	]);
+
+	jQuery(document).ready(function() {
+		
+		var h = jQuery(window).height();
+		var w = jQuery(window).width();
+		
+		jQuery("a").hide();
+		
+		
+		jQuery("body").css("overflow", "hidden");
+		var hhalf = h / -2;
+		var whalf = w / -2;
+		var vidw = h * 1.398;
+		var vidm = w - vidw;
+		var vidm = vidm / 2;
+		var mhalf = (h * 1.398) / -2;
+		jQuery("video#introvid").height(h).width(vidw);
+		
+		 
+		
+		jQuery("video#introvid").bind("ended", function() {
+			jQuery("a").show();
+			jQuery("#intro").prepend('<img src="images/final-frame.jpg" width=' + vidw + ' style="position:absolute;" />');
+   			jQuery(this).remove();
+   			jQuery("body").css("overflow", "auto");
+   			jQuery("#loader").hide();
+		});
+		
+		jQuery("#intro").height(h).width(vidw).css({"margin-left":vidm});
+		var htwo = h / 2;
+		
+		
+		jQuery("#intro a:nth-child(3)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-work.jpg" width=' + vidw + ' style="position:absolute;" />');
+			
+		});
+		jQuery("#intro a:nth-child(4)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-play.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(5)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-clients.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(6)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-case.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(7)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-contact.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a").click(function () {
+			jQuery("#intro").fadeOut();
+		});
+		jQuery(window).resize(function() {
+			var h = jQuery(window).height();
+			var w = jQuery(window).width();
+			var htwo = h / 2;
+			
+			
+			
+			var hhalf = h / -2;
+		var whalf = w / -2;
+		var vidw = h * 1.398;
+		var vidm = w - vidw;
+			var vidm = vidm / 2;
+		var mhalf = (h * 1.398) / -2;
+		jQuery("#intro").height(h).width(vidw).css({"margin-left":vidm});
+			
+		jQuery("video#introvid").height(h).width(vidw);
+		jQuery("#intro img").width(vidw);
+		jQuery("#intro a:nth-child(3)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-work.jpg" width=' + vidw + ' style="position:absolute;" />');
+			
+		});
+		jQuery("#intro a:nth-child(4)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-play.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(5)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-clients.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(6)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-case.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+		jQuery("#intro a:nth-child(7)").hover(function() {
+			jQuery("#intro img").remove();
+			jQuery("#intro").prepend('<img src="images/final-frame-contact.jpg" width=' + vidw + ' style="position:absolute;" />');
+		});
+			
+		});
+
+		
+		
+			
+	});	
+   		
+
+	</script>
+</head>
+<body style="background:#000;">
+<div id="hiddendimages">
+	<img src="images/final-frame-work.jpg">
+	<img src="images/final-frame-play.jpg">
+	<img src="images/final-frame-case.jpg">
+	<img src="images/final-frame-clients.jpg">
+	<img src="images/final-frame-contact.jpg">
+	</div>
+<div id="intro">
+	<div id="loader">Loading...</div>
+<video id="introvid" autoplay="true">
+		<source src="vid/animation3.ogg"  type="video/ogg">
+		<source src="vid/animation3.mp4"  type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
+		<source src="vid/animation3.webm" type='video/webm; codecs="vp8, vorbis"'>
+		
+	</video>
+	
+	<a class="half" id="towork" href="http://chadlavigne.com/play" style="position:absolute;">work</a>
+	<a class="half" id="toplay" href="http://chadlavigne.com/play/play"style="position:absolute; bottom: 0;" >play</a>
+	<a id="toclients" href="http://chadlavigne.com/play/clients/guess" style="position:absolute;">clients</a>
+	<a id="tocase" href="http://chadlavigne.com/play/case-studies" style="position:absolute;">case studies</a>
+	<a id="tocontact" href="http://chadlavigne.com/play/contact" style="position:absolute;">contact</a>
+</div>
+</body>
+</html>

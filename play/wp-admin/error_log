@@ -1,0 +1,22 @@
+[27-Oct-2011 01:44:57] PHP Fatal error:  Cannot redeclare create_post_type() (previously declared in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php:17) in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 41
+[27-Oct-2011 01:45:02] PHP Fatal error:  Cannot redeclare create_post_type() (previously declared in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php:17) in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 41
+[27-Oct-2011 01:45:33] PHP Fatal error:  Cannot redeclare create_post_type() (previously declared in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php:17) in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 41
+[27-Oct-2011 01:45:39] PHP Fatal error:  Cannot redeclare create_post_type() (previously declared in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php:17) in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 41
+[27-Oct-2011 01:47:25] PHP Parse error:  syntax error, unexpected T_STRING in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 34
+[27-Oct-2011 01:59:18] PHP Parse error:  syntax error, unexpected T_STRING in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 34
+[27-Oct-2011 01:59:21] PHP Parse error:  syntax error, unexpected T_STRING in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 34
+[27-Oct-2011 01:59:54] PHP Parse error:  syntax error, unexpected T_STRING in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 34
+[27-Oct-2011 01:59:57] PHP Parse error:  syntax error, unexpected T_STRING in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 34
+[30-Oct-2011 21:00:58] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 114
+[31-Oct-2011 00:13:07] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:13:11] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:13:15] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:14:12] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:14:15] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:14:16] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:14:20] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:15:08] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:15:15] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:16:15] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 00:17:21] PHP Parse error:  syntax error, unexpected '}' in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 11
+[31-Oct-2011 13:23:01] PHP Parse error:  syntax error, unexpected $end in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/functions.php on line 91

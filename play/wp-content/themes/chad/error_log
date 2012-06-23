@@ -1,0 +1,13 @@
+[09-Oct-2011 15:17:54] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:18:53] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:18:59] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:19:27] PHP Fatal error:  Call to undefined function  get_header() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 2
+[09-Oct-2011 15:23:40] PHP Fatal error:  Call to undefined function  get_header() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 1
+[09-Oct-2011 15:25:40] PHP Fatal error:  Call to undefined function  bloginfo() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/header.php on line 4
+[09-Oct-2011 15:25:49] PHP Fatal error:  Call to undefined function  bloginfo() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/header.php on line 4
+[09-Oct-2011 15:25:52] PHP Fatal error:  Call to undefined function  bloginfo() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/header.php on line 4
+[09-Oct-2011 15:27:59] PHP Fatal error:  Call to undefined function  bloginfo() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/header.php on line 4
+[09-Oct-2011 15:28:32] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:31:42] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:34:43] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3
+[09-Oct-2011 15:34:55] PHP Fatal error:  Call to undefined function  have_posts() in /home/hedrongr/public_html/chad/htmlmockup/play/wp-content/themes/chad/play.php on line 3

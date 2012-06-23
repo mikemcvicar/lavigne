@@ -1,0 +1,192 @@
+/* @override http://travis-mckinney.com/chad/htmlmockup/css/style.css */
+
+body{
+	background: #000;
+	color: #fff;
+	
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+.trade{
+	font-family:'TradeGothicW02-BoldCn20 675505';
+	font-weight: normal;
+	letter-spacing: .05em;
+}
+.clare{
+	font-family:'Clarendon W01 Medium';
+	font-weight: normal;
+	letter-spacing: .08em;
+}
+h1#logo{
+	width: 782px;
+	height: 170px;
+	position: fixed;
+	background: url(../images/logo.png);
+	text-indent: -9999px;
+	top: 5px;
+	left: 5.5%;
+	z-index: 2;
+}
+#sidebar{
+	width: 230px;
+	position: fixed;
+	right: 8%;
+	top: 127px;
+	z-index: 3;
+	text-align: center;
+	padding: 20px 0 0 0;
+	background: url(../images/sb-1.png) no-repeat center top;
+}
+#sidebar ul{
+	list-style: none;
+	padding: 0 0 20px 0;
+	background: url(../images/sb-2.png) no-repeat center bottom;
+	margin-bottom: 18px;
+}
+#sidebar ul li{
+	padding: 5px;
+	font-size: 48px;
+}
+#sidebar ul li.clare{
+	font-size: 28px;
+	
+}
+#sidebar ul li.trade ul li{
+	font-family:'Clarendon W01 Medium' ;
+	font-size: 12px;
+	letter-spacing: 0em;
+}
+#sidebar ul ul{
+	display: none;
+	opacity: 0;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+	position: absolute;
+	width: 179px;
+	text-align: left;
+	left: -160px;
+	top: 10px;
+	padding: 0 0 4px 0;
+	background: #000;
+}
+#sidebar ul ul li{
+	padding: 0;
+	font-size: 12px;
+}
+#sidebar ul ul li a{
+	width: 170px;
+	display: block;
+	padding: 4px;
+}
+#sidebar ul ul li:hover, #sidebar ul ul li:hover a{
+	background: #fff;
+	color: #000;
+}
+#sidebar ul li:hover ul{
+	display: block;
+	opacity: 1;
+	-webkit-transition: all 1s ease-in-out;
+	-moz-transition: all 1s ease-in-out;
+	-o-transition: all 1s ease-in-out;
+	-ms-transition: all 1s ease-in-out;
+	transition: all 1s ease-in-out;
+}
+#sidebar > p:nth-child(2), #sidebar > p:nth-child(3){
+	background: url(../images/sb-3.png) no-repeat center top;
+	padding: 16px 0 0 0;
+	margin: 0 0 10px 0;
+}
+#sidebar > p:nth-child(2) .clare{
+	font-size: 12px;
+	letter-spacing: .2em;
+}
+#sidebar > p:nth-child(2) .trade{
+	font-size: 16px;
+	letter-spacing: .2em;
+}
+#sidebar > p:nth-child(4){
+	display: block;
+	width: 154px;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #fff;
+	padding: 10px 0 ;
+	margin: 0 auto;
+}
+#sidebar > p:nth-child(4) .trade{
+	font-size: 17px;
+	letter-spacing: .1em;
+}
+#sidebar > p:nth-child(4) .clare{
+	font-size: 12px;
+	line-height: 1;
+}
+#sidebar > p:nth-child(4) .clare a{
+	font-size: 11px;
+}
+#sidebar div{	
+	height: 21px;
+	margin-top: 4px;
+	background: url(../images/sb-4.png) no-repeat center top;
+}
+#arrows{
+	position: fixed;
+	z-index: 4;
+	top: 680px;
+	left: 80px;
+	width: 800px;
+}
+#arrows #previous{
+	float: left;
+	width: 75px;
+	height: 37px;
+	text-indent: -9999px;
+	background: url(../images/previous.png) no-repeat;
+}
+#arrows #next{
+	float: right;
+	width: 75px;
+	height: 37px;
+	text-indent: -9999px;
+	background: url(../images/next.png) no-repeat;
+
+}
+#wrapper{
+	width: 280%;
+	overflow: hidden;
+	float: left;
+	
+}
+#wrapper div.mainslide{
+	float: left;
+	position: relative;
+	padding: 125px 0 0 2.2%;
+	width: 30%;
+	height: 700px;
+	z-index: 1;
+	
+}
+#process div{
+	margin-top: 100px;
+	width: 800px;
+}
+#process h2{
+	font-weight: normal;
+	font-size: 50px;
+	margin-bottom: 30px;
+}
+#process h2 .trade{
+	font-size: 49px;
+}
+#process p{
+	width: 630px;
+}
+p{	font-family: Andale Mono, verdana;
+	font-size: 14px;
+	line-height: 19px;
+	margin-bottom: 30px;
+}
