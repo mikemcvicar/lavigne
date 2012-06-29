@@ -236,7 +236,10 @@ h1#logo{
 	background: url(images/on-press.png) no-repeat left center;
 	padding: 10px 49px;
 }
-
+body.postid-206 #menu > li:nth-child(2) a{
+	background: none;
+	
+}
 .page-template-bios-php #menu > li:nth-child(6) a{
 	background: url(images/on-press.png) no-repeat left center;
 	padding: 10px 49px;
@@ -461,12 +464,13 @@ transition: all .75s ease-in-out;
 	line-height: 1;
 	padding-bottom: 20px;
 	margin-bottom: 20px;
+	display: none;
 	background: url(images/dividerdots.png) repeat-x 0 bottom;
 	}
 #welcome p{
 	font-family:'Clarendon W01 Medium';
 	font-weight: normal;
-	font-size: 25px;
+	font-size: 18px;
 	line-height: 1.2;
 }
 /*  CONTACT  */
@@ -528,18 +532,27 @@ transition: all .75s ease-in-out;
 	
 }
 .open .dude{
-	position: absolute;
+	position: fixed;
 	z-index: 9;
 	background: #ffffff;
 	padding: 15px;
 	float: left;
 	color: #000;
 	left: 50%;
-	margin-left: -205px;
-	top: 40px;
+	height: 600px;
+	top: 50%;
+	margin-top: -315px;
+	margin-left: -206px;
+	overflow: auto;
 }
-.blog .open .wp-post-image{
-	display: none;
+.blog .open .size-full, .blog .open .wp-post-image{
+	width: 700px;
+	height: auto;
+	
+}
+.blog .open .dude{
+	width: 700px;
+	margin-left: -365px;
 }
 a.rslides_nav{
 	color: #000;
@@ -579,6 +592,9 @@ a.rslides_nav.next{
 	clear: left;
 	margin: 0;
 	line-height: 1.25;
+}
+.open a{
+	color: #000;
 }
 #intro{
 	position: absolute;
@@ -714,11 +730,15 @@ img#preloader{
 	width: 340px;
 	
 }
+.box.vid{
+	width: 460px;
+	
+}
 .box.med{
 	width: 220px;
 }
 .box.small{
-	width: 100px;
+	width: 220px;
 
 }
 #play .box{

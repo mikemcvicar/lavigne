@@ -22,8 +22,8 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
            <div class="box med">
            <?php the_post_thumbnail('play-med') ?>
 <?php } elseif ( in_category('play-small') ) { ?>
-			<div class="box small">
-			<?php the_post_thumbnail('play-small') ?>
+			<div class="box med">
+			<?php the_post_thumbnail('play-med') ?>
 <?php } else {}?>
 
 

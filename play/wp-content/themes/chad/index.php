@@ -20,14 +20,14 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
            <?php the_post_thumbnail('play-med') ?>
            </div>
 <?php } elseif ( in_category('play-small') ) { ?>
-			<div class="box small">
+			<div class="box med">
 			<div class="play-thumb">
-			<?php the_post_thumbnail('play-small') ?>
+			<?php the_post_thumbnail('play-med') ?>
 			</div>
 <?php } elseif ( in_category('video') ) { ?>
-			<div class="box big">
+			<div class="box vid">
 			<div class="play-vid">
-			<iframe width="340" height="203" src="<?php echo get_post_meta($post->ID, 'video', true); ?>?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			<iframe width="460" height="275" src="<?php echo get_post_meta($post->ID, 'video', true); ?>?wmode=transparent" frameborder="0" allowfullscreen></iframe>
 			</div>
 
 <?php } else { ?> 
@@ -40,8 +40,9 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 	<div class="open" id="<?php the_ID(); ?>">
 	<div class="close"> </div>
 	<div class="dude">
+		<h2><?php the_title(); ?></h2>
 	<?php the_post_thumbnail('play-open') ?>
-	<h2><?php the_title(); ?></h2>
+	
 	<?php the_content(); ?>
 	</div>
 	</div>

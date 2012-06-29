@@ -14,7 +14,7 @@ if ( function_exists( 'add_image_size' ) ) {
 	add_image_size( 'play-small', 100, 9999 );
 	add_image_size( 'play-med', 220, 9999 );
 	add_image_size( 'play-big', 340, 9999 );
-	add_image_size( 'play-open', 500, 1240 );
+	add_image_size( 'play-open', 700, 9999 );
 	
 	
 }
