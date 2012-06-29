@@ -24,7 +24,7 @@ get_header();
 					
 					<?php endif; ?>
 				<div class="arrows">
-				<a class="runload" id="nextarrow" href="<?php bloginfo(siteurl) ?>/case-studies" >Next</a>
+				<a class="runload" id="nextarrow" href="<?php bloginfo(siteurl) ?>/clients/caswell-massey/" >Next</a>
 				</div>
 			</div>
 			
