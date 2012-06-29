@@ -64,10 +64,10 @@
 		jQuery("body").css("overflow", "auto");
 		var biobigh = h / 1.5;
 		var biobigw = biobigh * .82;
-		jQuery(".biobig").height(biobigh).width(biobigw);
-		jQuery(".open p").width(biobigw);
-		jQuery(".open h2").width(biobigw);
-//		jQuery(".open img").css({"max-height":biobigh}).removeAttr('width');
+	//	jQuery(".biobig").height(biobigh).width(biobigw);
+	//	jQuery(".open p").width(biobigw);
+	//	jQuery(".open h2").width(biobigw);
+
 			
 		
 
@@ -109,14 +109,7 @@
 			var open = jQuery(this).parent('.bio').find('.open').height();
 			console.log(open);
 			
-		//	if ( open > h ) {
-		//		var openzoom = h / open;
-		//		console.log(openzoom);
-		//		jQuery('.open').css({'zoom': openzoom});
-		//	}
-		//	else {
-		//		jQuery('.open').css({'zoom': '1'});
-		//	}
+	
 			
 		 });
  		jQuery('.rslides').responsiveSlides({
@@ -134,14 +127,7 @@
 			var open = jQuery(this).parent('.box').find('.open').height();
 			console.log(open);
 			
-	//		if ( open > h ) {
-	//			var openzoom = h / open;
-	//			console.log(openzoom);
-	//			jQuery('.open').css({'zoom': openzoom});
-	//		}
-	//		else {
-	//			jQuery('.open').css({'zoom': '1'});
-	//		}
+	
 			
 		 });
 		 
