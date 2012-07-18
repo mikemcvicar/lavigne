@@ -1,3 +1,5 @@
+/* @override http://chadlavigne.com/play/wp-content/themes/chad/style.css */
+
 /* @override 
 	http://travis-mckinney.com/new/wp-content/themes/mckinney/style.css
 	http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/style.css
@@ -126,6 +128,8 @@ a{
 	color: #fff;
 	text-decoration: none;
 }
+
+
 .trade{
 	font-family:'TradeGothicW02-BoldCn20 675505';
 	font-weight: normal;
@@ -193,6 +197,8 @@ h1#logo{
 	padding: 0;
 	font-size: 12px;
 }
+
+
 #sidebar ul ul li a{
 	width: 170px;
 	display: block;
@@ -452,9 +458,10 @@ transition: all .75s ease-in-out;
 /* PAGE TEMPLATES */
 
 #welcome{
-	width: 600px;
+	width: 655px;
 	position: relative;
-	top: 300px;
+	top: 270px;
+
 }
 #welcome h2{
 	font-size: 60px;
@@ -463,23 +470,48 @@ transition: all .75s ease-in-out;
 	text-transform: uppercase;
 	width: 100%;
 	line-height: 1;
-	padding-bottom: 20px;
+	padding-bottom: 16px;
 	margin-bottom: 20px;
 	display: none;
 	background: url(images/dividerdots.png) repeat-x 0 bottom;
+	 
 	}
 #welcome p{
-	font-family:'Clarendon W01 Medium';
+	font-family:'Clarendon W01 Light';
 	font-weight: normal;
 	font-size: 18px;
 	line-height: 1.2;
 }
+
+#welcome h5 {
+font-family:'Clarendon W01 Light';
+font-weight: normal;
+font-size: 18px;
+line-height: 1.2;
+padding-bottom: 16px;
+\
+	
+}
+
 /*  CONTACT  */
 #contact{
 	position: absolute;
 	top: 110px;
 	
 }
+
+#contact a {
+	color: #ffffff;
+	font: 13px 'TradeGothicW02-BoldCn20 675505';
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	float: left;
+}
+
+#contact a:hover {
+	text-decoration: underline;
+}
+
 /* BIOS */
 #bios{
 	position: absolute;
@@ -540,7 +572,7 @@ transition: all .75s ease-in-out;
 	float: left;
 	color: #000;
 	left: 50%;
-	height: 600px;
+	height: 625px;
 	top: 50%;
 	margin-top: -315px;
 	margin-left: -206px;
@@ -907,7 +939,7 @@ img#preloader{
 		left: 5%;
 	}
 	#sidebar{
-		left: 80%;
+		left: 77%;
 	}
 
 		
@@ -915,7 +947,7 @@ img#preloader{
 	
 }
 
-@media (min-width:1450px) {
+@media (min-width:1400px) {
 	 #welcome{
 	  left: 15%;
 	 }
@@ -941,7 +973,7 @@ img#preloader{
 	  left: 15%;
 	 }
 	 #sidebar{
-	  left: 70%;
+	  left: 75%;
 	 }
 
   
@@ -976,7 +1008,7 @@ img#preloader{
 		left: 55px;
 	}
 	#sidebar{
-		left: 883px;
+		left: 855px;
 	}
 }
 @media (max-height:750px){

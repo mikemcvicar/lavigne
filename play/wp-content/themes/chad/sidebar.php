@@ -37,7 +37,7 @@
 	<p><span class="trade">GENERAL INQUIRIES</span><br>
 	<span class="trade" id="noborder">E-MAIL:</span><br>
 	<span class="clare">
-	<a href="mailto:info@chadlavigne.com">info@chadlavigne.com</a></span></p>
+	<a href="mailto:info@chadlavigne.com" target="_blank">josh@chadlavigne.com</a></span></p>
 	<div></div>
 
 	</div>

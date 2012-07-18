@@ -1,4 +1,4 @@
-a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Content-Type: text/html; charset=UTF-8";}<!--headers--><!DOCTYPE html>
+a:6:{i:0;s:38:"Expires: Tue, 10 Jul 2012 23:58:24 GMT";i:1;s:44:"Last-Modified: Tue, 17 Jul 2012 23:58:24 GMT";i:2;s:51:"Cache-Control: no-cache, must-revalidate, max-age=0";i:3;s:16:"Pragma: no-cache";i:4;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:5;s:38:"Content-Type: text/html; charset=UTF-8";}<!--headers--><!DOCTYPE html>
 <html style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);  ">
 <head>
 
@@ -7,6 +7,7 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 <title>Chad Lavigne</title>
 <link rel="profile" href="http://gmpg.org/xfn/11" />
 <link rel="stylesheet" type="text/css" media="all" href="http://chadlavigne.com/play/wp-content/themes/chad/style.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://chadlavigne.com/play/wp-content/themes/chad/css/responsiveslides.css" />
 
 <script type="text/javascript"
    src="http://chadlavigne.com/play/wp-content/themes/chad/js/jquery-1.4.4.min.js"></script>
@@ -14,8 +15,11 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
    src="http://chadlavigne.com/play/wp-content/themes/chad/js/jquery.masonry.min.js"></script>
 <script type="text/javascript"
    src="http://chadlavigne.com/play/wp-content/themes/chad/js/jquery.infinitescroll.min.js"></script> 
-   <script type="text/javascript"
+<script type="text/javascript"
    src="http://chadlavigne.com/play/wp-content/themes/chad/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript"
+   src="http://chadlavigne.com/play/wp-content/themes/chad/js/responsiveslides.min.js"></script>
+
 
 <script type="text/javascript" src="http://fast.fonts.com/jsapi/77fdf8a5-dd8c-485d-a7fd-6ecaf53fba53.js"></script>
 <script type="text/javascript"
@@ -30,7 +34,7 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 		<li class="clare"><a id="prosc" class="runload" href="http://chadlavigne.com/play" ><span>OUR</span> WORK</a></li>
 		<li class="clare"><a id="clisc" href="#">CLIENTS</a>
 			<ul>
-				<li><a href="http://chadlavigne.com/play/clients/guess/" class="runload">Guess</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-signature/" class="runload">Bath and Body Works Signature</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-mens/" class="runload">Bath and Body Works Men&#8217;s</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-seasonal/" class="runload">Bath and body works seasonal</a></li><li><a href="http://chadlavigne.com/play/clients/le-labo/" class="runload">Le Labo</a></li><li><a href="http://chadlavigne.com/play/clients/boyfriend/" class="runload">Boyfriend</a></li><li><a href="http://chadlavigne.com/play/clients/mary-j-blige/" class="runload">Mary J Blige</a></li><li><a href="http://chadlavigne.com/play/clients/french-connection/" class="runload">French Connection</a></li><li><a href="http://chadlavigne.com/play/clients/american-eagle/" class="runload">American Eagle</a></li><li><a href="http://chadlavigne.com/play/clients/celine-dion/" class="runload">Celine Dion</a></li><li><a href="http://chadlavigne.com/play/clients/tommy-hilfiger/" class="runload">Tommy Hilfiger</a></li><li><a href="http://chadlavigne.com/play/clients/faith-hill-tim-mcgraw/" class="runload">Faith Hill &#038; Tim Mcgraw</a></li><li><a href="http://chadlavigne.com/play/clients/michael-kors/" class="runload">Michael Kors</a></li><li><a href="http://chadlavigne.com/play/clients/aerie/" class="runload">Aerie</a></li><li><a href="http://chadlavigne.com/play/clients/dkny/" class="runload">DKNY</a></li><li><a href="http://chadlavigne.com/play/clients/%ef%bf%bcmarc-jacobs/" class="runload">￼Marc Jacobs</a></li><li><a href="http://chadlavigne.com/play/clients/ck-one/" class="runload">CK One</a></li><li><a href="http://chadlavigne.com/play/clients/kenneth-cole/" class="runload">KENNETH COLE</a></li><li><a href="http://chadlavigne.com/play/clients/eddie-bauer/" class="runload">Eddie Bauer</a></li><li><a href="http://chadlavigne.com/play/clients/sara-jessica-parker/" class="runload">Sara Jessica Parker</a></li><li><a href="http://chadlavigne.com/play/clients/zirh/" class="runload">ZIRH</a></li><li><a href="http://chadlavigne.com/play/clients/ralph-lauren/" class="runload">Ralph Lauren</a></li><li><a href="http://chadlavigne.com/play/clients/holiday-tote/" class="runload">HOLIDAY TOTE</a></li>			</ul>
+				<li><a href="http://chadlavigne.com/play/clients/caswell-massey/" class="runload">CASWELL MASSEY</a></li><li><a href="http://chadlavigne.com/play/clients/nautica/" class="runload">Nautica</a></li><li><a href="http://chadlavigne.com/play/clients/guess/" class="runload">Guess</a></li><li><a href="http://chadlavigne.com/play/clients/michael-kors/" class="runload">Michael Kors</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-signature/" class="runload">Bath and Body Works Signature</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-mens/" class="runload">Bath and Body Works Men&#8217;s</a></li><li><a href="http://chadlavigne.com/play/clients/bbw-seasonal/" class="runload">Bath and body works seasonal</a></li><li><a href="http://chadlavigne.com/play/clients/le-labo/" class="runload">Le Labo</a></li><li><a href="http://chadlavigne.com/play/clients/boyfriend/" class="runload">Boyfriend</a></li><li><a href="http://chadlavigne.com/play/clients/mary-j-blige/" class="runload">Mary J Blige</a></li><li><a href="http://chadlavigne.com/play/clients/french-connection/" class="runload">French Connection</a></li><li><a href="http://chadlavigne.com/play/clients/american-eagle/" class="runload">American Eagle</a></li><li><a href="http://chadlavigne.com/play/clients/celine-dion/" class="runload">Celine Dion</a></li><li><a href="http://chadlavigne.com/play/clients/tommy-hilfiger/" class="runload">Tommy Hilfiger</a></li><li><a href="http://chadlavigne.com/play/clients/faith-hill-tim-mcgraw/" class="runload">Faith Hill &#038; Tim Mcgraw</a></li><li><a href="http://chadlavigne.com/play/clients/dkny/" class="runload">DKNY</a></li><li><a href="http://chadlavigne.com/play/clients/%ef%bf%bcmarc-jacobs/" class="runload">￼Marc Jacobs</a></li><li><a href="http://chadlavigne.com/play/clients/ck-one/" class="runload">CK One</a></li><li><a href="http://chadlavigne.com/play/clients/kenneth-cole/" class="runload">KENNETH COLE</a></li><li><a href="http://chadlavigne.com/play/clients/eddie-bauer/" class="runload">Eddie Bauer</a></li><li><a href="http://chadlavigne.com/play/clients/sara-jessica-parker/" class="runload">Sara Jessica Parker</a></li><li><a href="http://chadlavigne.com/play/clients/zirh/" class="runload">ZIRH</a></li><li><a href="http://chadlavigne.com/play/clients/loungerie-2/" class="runload">Loungerie</a></li><li><a href="http://chadlavigne.com/play/clients/ralph-lauren/" class="runload">Ralph Lauren</a></li><li><a href="http://chadlavigne.com/play/clients/rita-hazan/" class="runload">RITA HAZAN</a></li><li><a href="http://chadlavigne.com/play/clients/holiday-tote/" class="runload">Projects</a></li>			</ul>
 		</li>
 		<li class="trade"><a id="prosc" class="runload" href="http://chadlavigne.com/play/case-studies" >CASE STUDIES</a></li>
 		<li class="clare"><a id="consc" class="runload" href="http://chadlavigne.com/play/contact">CONTACT</a></li>
@@ -49,7 +53,7 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 	<p><span class="trade">GENERAL INQUIRIES</span><br>
 	<span class="trade" id="noborder">E-MAIL:</span><br>
 	<span class="clare">
-	<a href="mailto:info@chadlavigne.com">info@chadlavigne.com</a></span></p>
+	<a href="mailto:info@chadlavigne.com" target="_blank">josh@chadlavigne.com</a></span></p>
 	<div></div>
 
 	</div>
@@ -58,38 +62,130 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 
 
 
-           <div class="box med">
-           <div class="play-thumb">
-           <img width="220" height="146" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/main-220x146.jpg" class="attachment-play-med wp-post-image" alt="main" title="main" />           </div>
+ 
+	<div style="display:none;">
 
 
-<h2>FIELD NOTES</h2>
+<h2>CASWELL MASSEY</h2>
 
-	<div class="open" id="888">
+	<div class="open" id="1229">
 	<div class="close"> </div>
 	<div class="dude">
-	<img width="500" height="333" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/main.jpg" class="attachment-play-open wp-post-image" alt="main" title="main" />	<h2>FIELD NOTES</h2>
-	<p>Addicted<br />
-<img class="aligncenter size-full wp-image-891" title="fieldnotes3" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fieldnotes3.jpg" alt="" width="330" height="251" /><img class="aligncenter size-full wp-image-890" title="fieldnotes2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fieldnotes2.jpg" alt="" width="230" height="345" /><img class="aligncenter size-full wp-image-889" title="Fieldnotes" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Fieldnotes.jpg" alt="" width="460" height="307" /></p>
+		<h2>CASWELL MASSEY</h2>
+		
+	<p><img class="aligncenter size-full wp-image-1252" title="CM_SIG_01" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/CM_SIG_011.jpg" alt="" width="750" height="550" /></p>
+<div class="casecontent">
+<p>&nbsp;</p>
+<p><a class="runload" href="http://chadlavigne.com/play/"><img src="http://chadlavigne.com/play/wp-content/themes/chad/images/previous.png" alt="" /></a></p>
+<header>
+<h3>CASWELL MASSEY</h3>
+<h2>Botanicals</h2>
+</header>
+<p class="description">Personal Care package design. Authentic, modern and eclectic.</p>
+<p><a class="runload" href="http://chadlavigne.com/play/clients/caswell-massey/2/"><img src="http://chadlavigne.com/play/wp-content/themes/chad/images/next.png" alt="" /></a></p>
+</div>
 	</div>
 	</div>
 
 </div>
 
-			<div class="box big">
+ 
+	<div style="display:none;">
+
+
+<h2>Nautica</h2>
+
+	<div class="open" id="1269">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>Nautica</h2>
+		
+	<p><img class="aligncenter size-full wp-image-1270" title="NT_01" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/NT_01.jpg" alt="" width="750" height="550" /></p>
+<div class="casecontent">
+<p><a class="runload" href="http://chadlavigne.com/play/clients/caswell-massey/"><img src="http://chadlavigne.com/play/wp-content/themes/chad/images/previous.png" alt="" /></a></p>
+<header>
+<h3>NAUTICA</h3>
+<h2>Aqua Rush</h2>
+</header>
+<p class="description">Men’s fragrance package design. Bottle in Motion.</p>
+<p><a class="runload" href="http://chadlavigne.com/play/clients/guess/"><img src="http://chadlavigne.com/play/wp-content/themes/chad/images/next.png" alt="" /></a></p>
+</div>
+	</div>
+	</div>
+
+</div>
+
+ 
+	<div style="display:none;">
+
+
+<h2>EULIE</h2>
+
+	<div class="open" id="1167">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>EULIE</h2>
+	<img width="500" height="614" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/04eulieLee.jpg" class="attachment-play-open wp-post-image" alt="04eulieLee" title="04eulieLee" />	
+	<p>EULIE LEE : Designer</p>
+	</div>
+	</div>
+
+</div>
+
+			<div class="box vid">
 			<div class="play-vid">
-			<iframe width="340" height="203" src="http://www.youtube.com/embed/nw7Reli230M?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			<iframe width="460" height="275" src="http://www.youtube.com/embed/0AMUscXLoEE?&rel=0&showinfo=0&autohide=1&version=3?wmode=transparent" frameborder="0" allowfullscreen></iframe>
 			</div>
 
 
 
-<h2>BIKER WEEK DAYTONA</h2>
+<h2>The Making of ChadLavigne.com Intro</h2>
 
-	<div class="open" id="886">
+	<div class="open" id="1140">
 	<div class="close"> </div>
 	<div class="dude">
-		<h2>BIKER WEEK DAYTONA</h2>
-	<p>Christine’s side job</p>
+		<h2>The Making of ChadLavigne.com Intro</h2>
+		
+		</div>
+	</div>
+
+</div>
+
+			<div class="box med">
+			<div class="play-thumb">
+			<img width="220" height="220" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/ItalicaRomanRuins2-220x220.jpg" class="attachment-play-med wp-post-image" alt="ItalicaRomanRuins2" title="ItalicaRomanRuins2" />			</div>
+
+
+<h2>Seville Spain</h2>
+
+	<div class="open" id="1394">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>Seville Spain</h2>
+	<img width="700" height="700" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/ItalicaRomanRuins2-700x700.jpg" class="attachment-play-open wp-post-image" alt="ItalicaRomanRuins2" title="ItalicaRomanRuins2" />	
+	<p><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/ItalicaRomanRuins1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/ItalicaRomanRuins1.jpg"><img class="aligncenter size-large wp-image-1400" title="ItalicaRomanRuins1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/ItalicaRomanRuins1-700x700.jpg" alt="" width="700" height="700" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/seville_flamenco5.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco5.jpg"><img class="aligncenter size-large wp-image-1399" title="seville_flamenco5" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco5-700x700.jpg" alt="" width="700" height="700" /></a><a href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco1.jpg"><br />
+</a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/seville_flamenco3.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco3.jpg"><img class="aligncenter size-large wp-image-1397" title="seville_flamenco3" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco3-700x700.jpg" alt="" width="700" height="700" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/seville_flamenco4.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco4.jpg"><img class="aligncenter size-large wp-image-1398" title="seville_flamenco4" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco4-700x700.jpg" alt="" width="700" height="700" /></a><br />
+<a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/seville_flamenco2.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco2.jpg"><img class="aligncenter size-large wp-image-1396" title="seville_flamenco2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco2-700x700.jpg" alt="" width="700" height="700" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/seville_flamenco1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco1.jpg"><img class="aligncenter size-large wp-image-1395" title="seville_flamenco1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/seville_flamenco1-700x700.jpg" alt="" width="700" height="700" /></a></p>
+	</div>
+	</div>
+
+</div>
+
+			<div class="box med">
+			<div class="play-thumb">
+			<img width="220" height="329" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/steve1-220x329.jpg" class="attachment-play-med wp-post-image" alt="steve1" title="steve1" />			</div>
+
+
+<h2>Portraits of friends</h2>
+
+	<div class="open" id="1367">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>Portraits of friends</h2>
+	<img width="417" height="625" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/steve1.jpg" class="attachment-play-open wp-post-image" alt="steve1" title="steve1" />	
+	<p><a href="http://chadlavigne.com/play/wp-content/uploads/2012/06/christie1.jpg"><img class="size-full wp-image-1370 alignnone" title="christie1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/christie1.jpg" alt="" width="417" height="625" /><br />
+</a><br />
+<a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/michael1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/michael1.jpg"><img class="size-full wp-image-1386 alignnone" title="michael1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/michael1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/eddie1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/eddie1.jpg"><img class="aligncenter size-full wp-image-1385" title="eddie1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/eddie1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/boyd1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/boyd1.jpg"><img class="aligncenter size-full wp-image-1383" title="boyd1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/boyd1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/eddie2.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/eddie2.jpg"><img class="aligncenter size-full wp-image-1382" title="eddie2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/eddie2.jpg" alt="" width="410" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/drew1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/drew1.jpg"><img class="aligncenter size-full wp-image-1381" title="drew1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/drew1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/mikemcV1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/mikemcV1.jpg"><img class="aligncenter size-full wp-image-1380" title="mikemcV1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/mikemcV1.jpg" alt="" width="437" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/fabrice1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/fabrice1.jpg"><img class="aligncenter size-full wp-image-1371" title="fabrice1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fabrice1.jpg" alt="" width="452" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/aleks1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks1.jpg"><img class="aligncenter size-large wp-image-1368" title="aleks1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks1-700x494.jpg" alt="" width="700" height="494" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/michelle2.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/michelle2.jpg"><img class="aligncenter size-full wp-image-1372" title="michelle2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/michelle2.jpg" alt="" width="446" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/aleks4.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks4.jpg"><img class="aligncenter size-full wp-image-1373" title="aleks4" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks4.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/ron1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/ron1.jpg"><img class="aligncenter size-full wp-image-1374" title="ron1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/ron1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/aleks3.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks3.jpg"><img class="aligncenter size-full wp-image-1375" title="aleks3" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/aleks3.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/chad1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/chad1.jpg"><img class="aligncenter size-full wp-image-1376" title="chad1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/chad1.jpg" alt="" width="426" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/maiko1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/maiko1.jpg"><img class="aligncenter size-full wp-image-1377" title="maiko1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/maiko1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/michelle1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/michelle1.jpg"><img class="aligncenter size-full wp-image-1378" title="michelle1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/michelle1.jpg" alt="" width="417" height="625" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/francis1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/francis1.jpg"><img class="aligncenter size-full wp-image-1379" title="francis1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/francis1.jpg" alt="" width="417" height="625" /></a></p>
 	</div>
 	</div>
 
@@ -97,180 +193,37 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 
            <div class="box big">
            <div class="play-thumb">
-           <img width="340" height="444" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/PARTY_07_21_A_FNL-340x444.jpg" class="attachment-play-big wp-post-image" alt="OLYMPUS DIGITAL CAMERA" title="OLYMPUS DIGITAL CAMERA" />           </div>
+           <img width="340" height="340" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3576-340x340.jpg" class="attachment-play-big wp-post-image" alt="weekend in rome" title="weekend in rome" />           </div>
 
 
-<h2>STUDIO SUMMER PARTY</h2>
+<h2>WEEKEND IN ROME AND FLORENCE</h2>
 
-	<div class="open" id="872">
+	<div class="open" id="1033">
 	<div class="close"> </div>
 	<div class="dude">
-	<img width="500" height="653" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/PARTY_07_21_A_FNL-500x653.jpg" class="attachment-play-open wp-post-image" alt="OLYMPUS DIGITAL CAMERA" title="OLYMPUS DIGITAL CAMERA" />	<h2>STUDIO SUMMER PARTY</h2>
-	<p>Almost time for our next summer blast</p>
-<p><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/olympus-digital-camera/" rel="attachment wp-att-883"><br />
-</a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/screen-shot-2012-06-20-at-1-17-16-am/" rel="attachment wp-att-881"><img class="aligncenter size-full wp-image-881" title="Screen Shot 2012-06-20 at 1.17.16 AM" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Screen-Shot-2012-06-20-at-1.17.16-AM.png" alt="" width="171" height="255" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/screen-shot-2012-06-20-at-1-17-08-am/" rel="attachment wp-att-880"><br />
-</a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/screen-shot-2012-06-20-at-1-16-07-am/" rel="attachment wp-att-879"><img class="aligncenter size-full wp-image-879" title="Screen Shot 2012-06-20 at 1.16.07 AM" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Screen-Shot-2012-06-20-at-1.16.07-AM.png" alt="" width="183" height="220" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/screen-shot-2012-06-20-at-1-17-08-am/" rel="attachment wp-att-880"><img class="aligncenter size-full wp-image-880" title="Screen Shot 2012-06-20 at 1.17.08 AM" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Screen-Shot-2012-06-20-at-1.17.08-AM.png" alt="" width="183" height="232" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3051/" rel="attachment wp-att-878"><img class="aligncenter size-full wp-image-878" title="IMG_3051" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3051.jpg" alt="" width="2592" height="1936" /><br />
-</a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3034/" rel="attachment wp-att-876"><img class="aligncenter size-full wp-image-876" title="IMG_3034" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3034.jpg" alt="" width="2592" height="1936" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3032/" rel="attachment wp-att-875"><img class="aligncenter size-full wp-image-875" title="IMG_3032" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3032.jpg" alt="" width="2592" height="1936" /><br />
-</a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3035/" rel="attachment wp-att-877"><img class="aligncenter size-full wp-image-877" title="IMG_3035" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3035.jpg" alt="" width="2592" height="1936" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3029/" rel="attachment wp-att-874"><img class="aligncenter size-full wp-image-874" title="IMG_3029" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3029.jpg" alt="" width="477" height="640" /></a><a href="http://chadlavigne.com/play/play-big/studio-summer-party/attachment/img_3025/" rel="attachment wp-att-873"><img class="aligncenter size-full wp-image-873" title="IMG_3025" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3025.jpg" alt="" width="640" height="478" /></a></p>
+		<h2>WEEKEND IN ROME AND FLORENCE</h2>
+	<img width="640" height="640" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3576.jpg" class="attachment-play-open wp-post-image" alt="weekend in rome" title="weekend in rome" />	
+	<p style="text-align: center;"><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3616/" rel="attachment wp-att-1044"><img class="size-full wp-image-1044" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3616.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3600/" rel="attachment wp-att-1042"><img class="aligncenter size-full wp-image-1042" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3600.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3587/" rel="attachment wp-att-1041"><img class="aligncenter size-full wp-image-1041" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3587.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3547/" rel="attachment wp-att-1037"><img class="aligncenter size-full wp-image-1037" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3547.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3585/" rel="attachment wp-att-1040"><img class="aligncenter size-full wp-image-1040" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3585.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3577/" rel="attachment wp-att-1039"><img class="aligncenter size-full wp-image-1039" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3577.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3543/" rel="attachment wp-att-1036"><img class="aligncenter size-full wp-image-1036" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3543.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3395/" rel="attachment wp-att-1035"><img class="aligncenter size-full wp-image-1035" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3395.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-big/weekend-in-rome/attachment/img_3211-2/" rel="attachment wp-att-1034"><img class="aligncenter size-full wp-image-1034" title="weekend in rome" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_32111.jpg" alt="" width="640" height="640" /></a></p>
+<p><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3329/" rel="attachment wp-att-1029"><img title="IMG_3329" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3329.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3335/" rel="attachment wp-att-1030"><img title="IMG_3335" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3335.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3311/" rel="attachment wp-att-1028"><img title="IMG_3311" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3311.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3211/" rel="attachment wp-att-1027"><img title="IMG_3211" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3211.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3209/" rel="attachment wp-att-1026"><img title="IMG_3209" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3209.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3195/" rel="attachment wp-att-1025"><img title="IMG_3195" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3195.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3181/" rel="attachment wp-att-1023"><img title="IMG_3181" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3181.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3174/" rel="attachment wp-att-1022"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3174.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3171/" rel="attachment wp-att-1021"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3171.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3157/" rel="attachment wp-att-1020"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3157.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3157/" rel="attachment wp-att-1020"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3157.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3134/" rel="attachment wp-att-1019"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3134.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3109/" rel="attachment wp-att-1017"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3109.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3118/" rel="attachment wp-att-1018"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3118.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3104/" rel="attachment wp-att-1016"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3104.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3101/" rel="attachment wp-att-1015"><img title="Weekend In Florence…Beyond" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3101.jpg" alt="" width="640" height="640" /></a><a href="http://chadlavigne.com/play/play-med/weekend-in-florencebeyond/attachment/img_3097/" rel="attachment wp-att-1014"><img class="aligncenter" title="Weekend In Florence1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3097.jpg" alt="" width="640" height="640" /></a></p>
 	</div>
 	</div>
 
 </div>
 
-           <div class="box med">
-           <div class="play-thumb">
-           <img width="220" height="164" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/imperial-9-220x164.jpg" class="attachment-play-med wp-post-image" alt="imperial 9" title="imperial 9" />           </div>
-
-
-<h2>Imperial Number 9</h2>
-
-	<div class="open" id="868">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="350" height="262" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/imperial-9.jpg" class="attachment-play-open wp-post-image" alt="imperial 9" title="imperial 9" />	<h2>Imperial Number 9</h2>
-	<p>Fantastic space for lunch on Crosby St.</p>
-	</div>
-	</div>
-
-</div>
-
-			<div class="box small">
-			<div class="play-thumb">
-			<img width="100" height="67" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/MAIN-100x67.jpeg" class="attachment-play-small wp-post-image" alt="Saturday&#039;s NYC" title="Saturday&#039;s NYC" />			</div>
-
-
-<h2>Saturdays NYC</h2>
-
-	<div class="open" id="860">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="337" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/MAIN-500x337.jpeg" class="attachment-play-open wp-post-image" alt="Saturday&#039;s NYC" title="Saturday&#039;s NYC" />	<h2>Saturdays NYC</h2>
-	<p><a href="http://www.saturdaysnyc.com/about">Ubber Cool</a></p>
-<p><img class="aligncenter size-full wp-image-861" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/40990016.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-862" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/asurf.1.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-863" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fpo-about.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-865" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/r1-31a.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-866" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/saturdays-1-of-29.jpg" alt="" width="720" height="486" /></p>
-	</div>
-	</div>
-
-</div>
-
-           <div class="box big">
-           <div class="play-thumb">
-           <img width="340" height="191" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/johndoegold1-340x191.jpeg" class="attachment-play-big wp-post-image" alt="John&#039;s Phone" title="John&#039;s Phone" />           </div>
-
-
-<h2>Johns Phone</h2>
-
-	<div class="open" id="855">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="281" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/johndoegold1-500x281.jpeg" class="attachment-play-open wp-post-image" alt="John&#039;s Phone" title="John&#039;s Phone" />	<h2>Johns Phone</h2>
-	<p><a href="http://johnsphones.org/category/john-doe-amsterdam/">Cool simplicity</a></p>
-<p><img class="aligncenter size-full wp-image-857" title="John's PHone" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/johnblood1.jpeg" alt="" width="600" height="368" /><br />
-<img class="aligncenter size-full wp-image-856" title="John's Phone" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/images-1.jpeg" alt="" width="262" height="192" /></p>
-	</div>
-	</div>
-
-</div>
-
-			<div class="box small">
-			<div class="play-thumb">
-			<img width="100" height="73" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/loungerie_final-100x73.jpg" class="attachment-play-small wp-post-image" alt="loungerie_final" title="loungerie_final" />			</div>
-
-
-<h2>Studio Mural</h2>
-
-	<div class="open" id="849">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="367" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/loungerie_final-500x367.jpg" class="attachment-play-open wp-post-image" alt="loungerie_final" title="loungerie_final" />	<h2>Studio Mural</h2>
-	<p><img class="aligncenter size-full wp-image-850" title="Studio Mural" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_8240.jpg" alt="" width="3264" height="2448" /><img class="aligncenter size-full wp-image-852" title="loungerie_sketch" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/loungerie_sketch.jpg" alt="" /><img class="aligncenter size-full wp-image-853" title="Studio Mural" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/mural_2.jpg" alt="" width="1646" height="1154" /></p>
-	</div>
-	</div>
-
-</div>
-
-           <div class="box med">
-           <div class="play-thumb">
-           <img width="220" height="326" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/JONES-WOOD-220x326.png" class="attachment-play-med wp-post-image" alt="JONES WOOD" title="JONES WOOD" />           </div>
-
-
-<h2>Jones Wood Foundry</h2>
-
-	<div class="open" id="845">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="287" height="426" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/JONES-WOOD.png" class="attachment-play-open wp-post-image" alt="JONES WOOD" title="JONES WOOD" />	<h2>Jones Wood Foundry</h2>
-	<p><a href="http://joneswoodfoundry.com/">great bristish vibe on Upper East Side</a></p>
-<p><a href="http://joneswoodfoundry.com/"><img class="aligncenter size-full wp-image-846" title="Jones Wood Foundry" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3172.jpg" alt="" width="477" height="640" /></a></p>
-	</div>
-	</div>
-
-</div>
-
-           <div class="box med">
-           <div class="play-thumb">
-           <img width="220" height="165" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/35-Chevy-to-Storage-005-500x375-220x165.jpeg" class="attachment-play-med wp-post-image" alt="35-Chevy-to-Storage-005-500x375" title="35-Chevy-to-Storage-005-500x375" />           </div>
-
-
-<h2>Rat Rot Build</h2>
-
-	<div class="open" id="840">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="375" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/35-Chevy-to-Storage-005-500x375.jpeg" class="attachment-play-open wp-post-image" alt="35-Chevy-to-Storage-005-500x375" title="35-Chevy-to-Storage-005-500x375" />	<h2>Rat Rot Build</h2>
-	<p>Will Chad ever finish this build??</p>
-	</div>
-	</div>
-
-</div>
-
-           <div class="box big">
-           <div class="play-thumb">
-           <img width="340" height="509" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3196-500x749-340x509.jpeg" class="attachment-play-big wp-post-image" alt="IMG_3196-500x749" title="IMG_3196-500x749" />           </div>
-
-
-<h2>Oliver Born</h2>
-
-	<div class="open" id="834">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="749" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_3196-500x749.jpeg" class="attachment-play-open wp-post-image" alt="IMG_3196-500x749" title="IMG_3196-500x749" />	<h2>Oliver Born</h2>
-	<p>Josh’s latest addition</p>
-	</div>
-	</div>
-
-</div>
-
-			<div class="box small">
-			<div class="play-thumb">
-			<img width="100" height="74" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photostorm-100x74.jpg" class="attachment-play-small wp-post-image" alt="Storm at the studio" title="Storm at the studio" />			</div>
-
-
-<h2>Storm at the studio</h2>
-
-	<div class="open" id="830">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="373" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photostorm-500x373.jpg" class="attachment-play-open wp-post-image" alt="Storm at the studio" title="Storm at the studio" />	<h2>Storm at the studio</h2>
-	<p>Crazy storm as seen from our studio<br />
-<img class="aligncenter size-full wp-image-831" title="Storm at the studio" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_4422.jpg" alt="" width="640" height="478" /></p>
-	</div>
-	</div>
-
-</div>
-
-			<div class="box big">
+			<div class="box vid">
 			<div class="play-vid">
-			<iframe width="340" height="203" src="http://www.youtube.com/embed/GsEcI6xyphM?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			<iframe width="460" height="275" src="http://www.youtube.com/v/3pffeBuvru0&rel=0&showinfo=0&autohide=1&version=3?wmode=transparent" frameborder="0" allowfullscreen></iframe>
 			</div>
 
 
 
-<h2>Dylan hits breaks</h2>
+<h2>Feeling very enlightened</h2>
 
-	<div class="open" id="828">
+	<div class="open" id="1007">
 	<div class="close"> </div>
 	<div class="dude">
-		<h2>Dylan hits breaks</h2>
+		<h2>Feeling very enlightened</h2>
+		
 		</div>
 	</div>
 
@@ -278,33 +231,17 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 
            <div class="box big">
            <div class="play-thumb">
-                      </div>
+           <img width="340" height="340" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/399098_10100548945585554_1223571024_n-340x340.jpg" class="attachment-play-big wp-post-image" alt="Letterpress" title="Letterpress" />           </div>
 
 
-<h2>CBS clip</h2>
+<h2>CHRISTINES FAMILY LETTER PRESS</h2>
 
-	<div class="open" id="826">
+	<div class="open" id="996">
 	<div class="close"> </div>
 	<div class="dude">
-		<h2>CBS clip</h2>
-	<p>CLIP</p>
-	</div>
-	</div>
-
-</div>
-
-           <div class="box big">
-           <div class="play-thumb">
-           <img width="340" height="255" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/A-05-340x255.jpg" class="attachment-play-big wp-post-image" alt="Rob Frogs" title="Rob Frogs" />           </div>
-
-
-<h2>Rob Frogs</h2>
-
-	<div class="open" id="814">
-	<div class="close"> </div>
-	<div class="dude">
-	<img width="500" height="375" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/A-05-500x375.jpg" class="attachment-play-open wp-post-image" alt="Rob Frogs" title="Rob Frogs" />	<h2>Rob Frogs</h2>
-	<p><img class="aligncenter size-full wp-image-815" title=" Rob Frogs" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/A-01.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-817" title=" Rob Frogs" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/almirante_01.jpg" alt="" width="600" height="800" /><img class="aligncenter size-full wp-image-818" title=" Rob Frogs" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Azureus_01.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-819" title=" Rob Frogs" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Azureus_02.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-820" title="Azureus" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Azureus.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-821" title="basti_01" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/basti_01.jpg" alt="" width="640" height="480" /><img class="aligncenter size-full wp-image-822" title="fant_froglet" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fant_froglet.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-823" title="Female_Basti" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Female_Basti.jpg" alt="" width="800" height="600" /><img class="aligncenter size-full wp-image-824" title="Golddust_Basti" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Golddust_Basti.jpg" alt="" width="600" height="800" /></p>
+		<h2>CHRISTINES FAMILY LETTER PRESS</h2>
+	<img width="700" height="700" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/399098_10100548945585554_1223571024_n-700x700.jpg" class="attachment-play-open wp-post-image" alt="Letterpress" title="Letterpress" />	
+	<p><a href="http://chadlavigne.com/play/play-big/christine-letter-press/attachment/l-79/" rel="attachment wp-att-1003"><img class="aligncenter size-full wp-image-1003" title="Letterpress Three Owls Press" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/l-79.jpg" alt="" width="600" height="397" /></a><a href="http://chadlavigne.com/play/play-big/christine-letter-press/attachment/577174_10100548971294034_11306492_50965668_2001315976_n/" rel="attachment wp-att-1002"><img class="aligncenter size-full wp-image-1002" title="Letterpress  1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/577174_10100548971294034_11306492_50965668_2001315976_n.jpg" alt="" width="720" height="960" /></a><a href="http://chadlavigne.com/play/play-big/christine-letter-press/attachment/563870_10100548946598524_11306492_50965335_1329723525_n/" rel="attachment wp-att-1001"><img class="aligncenter size-full wp-image-1001" title="Letterpress" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/563870_10100548946598524_11306492_50965335_1329723525_n.jpg" alt="" width="960" height="960" /></a><a href="http://chadlavigne.com/play/play-big/christine-letter-press/attachment/546020_10100548946952814_11306492_50965343_2112328384_n/" rel="attachment wp-att-999"><img class="aligncenter size-full wp-image-999" title="Letterpress" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/546020_10100548946952814_11306492_50965343_2112328384_n.jpg" alt="" width="960" height="576" /></a><a href="http://chadlavigne.com/play/play-big/christine-letter-press/attachment/150121_10100548947292134_11306492_50965350_1795080328_n/" rel="attachment wp-att-997"><img class="aligncenter size-full wp-image-997" title="Letterpress" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/150121_10100548947292134_11306492_50965350_1795080328_n.jpg" alt="" width="960" height="576" /></a></p>
 	</div>
 	</div>
 
@@ -312,17 +249,118 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 
            <div class="box med">
            <div class="play-thumb">
-           <img width="220" height="146" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/210969_2969874850650_1375102462_3186092_1680978871_o-220x146.jpg" class="attachment-play-med wp-post-image" alt="Marcela" title="Marcela" />           </div>
+           <img width="220" height="165" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/35-Chevy-to-Storage-005-500x3751-220x165.jpeg" class="attachment-play-med wp-post-image" alt="Rat Rod" title="Rat Rod" />           </div>
 
 
-<h2>Marcela</h2>
+<h2>WILL CHAD EVER FINISH THIS BUILD??</h2>
 
-	<div class="open" id="809">
+	<div class="open" id="840">
 	<div class="close"> </div>
 	<div class="dude">
-	<img width="500" height="333" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/210969_2969874850650_1375102462_3186092_1680978871_o-500x333.jpg" class="attachment-play-open wp-post-image" alt="Marcela" title="Marcela" />	<h2>Marcela</h2>
-	<p>Marcela’s beautiful wedding in Brazil<img class="aligncenter size-full wp-image-811" title="Marcela" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/381160_10150510916377300_703792299_8597403_1365770771_n.jpg" alt="" width="800" height="536" /><img class="aligncenter size-full wp-image-812" title="Marcela" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/381708_10150506178952300_703792299_8581946_327279527_n.jpg" alt="" width="800" height="533" /></p>
+		<h2>WILL CHAD EVER FINISH THIS BUILD??</h2>
+	<img width="500" height="375" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/35-Chevy-to-Storage-005-500x3751.jpeg" class="attachment-play-open wp-post-image" alt="Rat Rod" title="Rat Rod" />	
+	<p><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/35-chevy-to-storage-005-500x375-2/" rel="attachment wp-att-1062"><br />
+</a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_7139/" rel="attachment wp-att-1076"><img class="aligncenter size-large wp-image-1076" title="IMG_7139" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_7139-700x525.jpg" alt="" width="700" height="525" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_7134/" rel="attachment wp-att-1075"><img class="aligncenter size-large wp-image-1075" title="IMG_7134" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_7134-700x525.jpg" alt="" width="700" height="525" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_6680-2/" rel="attachment wp-att-1150"><img class="aligncenter size-large wp-image-1150" title="Rat Rod build" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_66801-700x525.jpg" alt="" width="700" height="525" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_5758/" rel="attachment wp-att-1073"><img class="aligncenter size-large wp-image-1073" title="IMG_5758" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_5758-700x522.jpg" alt="" width="700" height="522" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_5742/" rel="attachment wp-att-1071"><img class="aligncenter size-large wp-image-1071" title="IMG_5742" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_5742-700x522.jpg" alt="" width="700" height="522" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_5694/" rel="attachment wp-att-1070"><img class="aligncenter size-full wp-image-1070" title="IMG_5694" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_5694.jpg" alt="" width="500" height="375" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_2299/" rel="attachment wp-att-1069"><img class="aligncenter size-large wp-image-1069" title="IMG_2299" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_2299-700x525.jpg" alt="" width="700" height="525" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_1599/" rel="attachment wp-att-1068"><img class="aligncenter size-large wp-image-1068" title="IMG_1599" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_1599-700x937.jpg" alt="" width="700" height="937" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/img_1597/" rel="attachment wp-att-1067"><img class="aligncenter size-large wp-image-1067" title="IMG_1597" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/IMG_1597-700x937.jpg" alt="" width="700" height="937" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/dscf0659/" rel="attachment wp-att-1066"><img class="aligncenter size-large wp-image-1066" title="DSCF0659" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/DSCF0659-700x466.jpg" alt="" width="700" height="466" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/dscf0628/" rel="attachment wp-att-1065"><img class="aligncenter size-large wp-image-1065" title="Rat Rod" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/DSCF0628-700x466.jpg" alt="" width="700" height="466" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/dscf0614/" rel="attachment wp-att-1064"><img class="aligncenter size-large wp-image-1064" title="DSCF0614" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/DSCF0614-700x466.jpg" alt="" width="700" height="466" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/dscf0604/" rel="attachment wp-att-1063"><img class="aligncenter size-large wp-image-1063" title="Rat Rod" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/DSCF0604-700x466.jpg" alt="" width="700" height="466" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/p1020191/" rel="attachment wp-att-1077"><img class="aligncenter size-full wp-image-1077" title="P1020191" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/P1020191.jpg" alt="" width="3264" height="2448" /></a><a href="http://chadlavigne.com/play/play-med/rat-rot-build/attachment/35-chevy-to-storage-005-500x375-2/" rel="attachment wp-att-1062"><br />
+</a>Will Chad ever finish this build??</p>
 	</div>
+	</div>
+
+</div>
+
+			<div class="box vid">
+			<div class="play-vid">
+			<iframe width="460" height="275" src="http://www.youtube.com/embed/6KSis201wS4?&rel=0&showinfo=0&autohide=1&version=3?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+
+
+<h2>LO SPINO HILLCLIMB IN FLORENCE</h2>
+
+	<div class="open" id="992">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>LO SPINO HILLCLIMB IN FLORENCE</h2>
+		
+		</div>
+	</div>
+
+</div>
+
+			<div class="box med">
+			<div class="play-thumb">
+			<img width="220" height="148" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/MAIN-220x148.jpeg" class="attachment-play-med wp-post-image" alt="Saturday&#039;s NYC" title="Saturday&#039;s NYC" />			</div>
+
+
+<h2>Saturdays NYC</h2>
+
+	<div class="open" id="860">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>Saturdays NYC</h2>
+	<img width="500" height="337" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/MAIN-500x337.jpeg" class="attachment-play-open wp-post-image" alt="Saturday&#039;s NYC" title="Saturday&#039;s NYC" />	
+	<p>Urban surf culture on crosby st nyc (with la colombe coffee)</p>
+<p><img class="aligncenter size-full wp-image-861" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/40990016.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-862" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/asurf.1.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-863" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/fpo-about.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-865" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/r1-31a.jpg" alt="" width="720" height="486" /><img class="aligncenter size-full wp-image-866" title="Saturday's NYC" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/saturdays-1-of-29.jpg" alt="" width="720" height="486" /></p>
+<p><a onclick="javascript:_gaq.push(['_trackPageview', '/out/www.saturdaysnyc.com/about']);"  href="http://www.saturdaysnyc.com/about">Ubber Cool</a></p>
+	</div>
+	</div>
+
+</div>
+
+           <div class="box big">
+           <div class="play-thumb">
+           <img width="340" height="226" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photo-3-340x226.jpg" class="attachment-play-big wp-post-image" alt="Boyd 3" title="Boyd 3" />           </div>
+
+
+<h2>ROCKSTAR BOYD</h2>
+
+	<div class="open" id="982">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>ROCKSTAR BOYD</h2>
+	<img width="700" height="466" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photo-3-700x466.jpg" class="attachment-play-open wp-post-image" alt="Boyd 3" title="Boyd 3" />	
+	<p>The triple threat -  <a onclick="javascript:_gaq.push(['_trackPageview', '/out/www.wonderlandarchives.com/']);"  href="http://www.wonderlandarchives.com/">http://www.wonderlandarchives.com/</a><a href="http://chadlavigne.com/play/play-med/boyd/attachment/photo-1/" rel="attachment wp-att-985"><br />
+</a><a href="http://chadlavigne.com/play/play-med/boyd/attachment/photo-2/" rel="attachment wp-att-986"><img class="aligncenter size-full wp-image-986" title="Boyd 2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photo-2.jpg" alt="" width="2400" height="1600" /><br />
+</a><a href="http://chadlavigne.com/play/play-med/boyd/attachment/boyd-wonderland-archives/" rel="attachment wp-att-984"><img class="aligncenter size-full wp-image-984" title="Boyd wonderland archives" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/Boyd-wonderland-archives.jpg" alt="" width="522" height="364" /><br />
+</a><a href="http://chadlavigne.com/play/play-med/boyd/attachment/photo-1/" rel="attachment wp-att-985"><img class="aligncenter size-full wp-image-985" title="Boyd 1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/photo-1.jpg" alt="" width="2400" height="1600" /></a></p>
+	</div>
+	</div>
+
+</div>
+
+			<div class="box med">
+			<div class="play-thumb">
+			<img width="220" height="220" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbreakfast2-220x220.jpg" class="attachment-play-med wp-post-image" alt="spanishbreakfast2" title="spanishbreakfast2" />			</div>
+
+
+<h2>I Eat Food</h2>
+
+	<div class="open" id="1357">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>I Eat Food</h2>
+	<img width="700" height="700" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbreakfast2-700x700.jpg" class="attachment-play-open wp-post-image" alt="spanishbreakfast2" title="spanishbreakfast2" />	
+	<p><a href="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbreakfast2.jpg"><br />
+</a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/spanishdrink2.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishdrink2.jpg"><img class="aligncenter size-full wp-image-1359" title="spanishdrink2" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishdrink2.jpg" alt="" width="1280" height="1280" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/spanishbreakfast1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbreakfast1.jpg"><img class="aligncenter size-large wp-image-1360" title="spanishbreakfast1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbreakfast1-700x700.jpg" alt="" width="700" height="700" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/spanishdrink1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishdrink1.jpg"><img class="aligncenter size-large wp-image-1361" title="spanishdrink1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishdrink1-700x700.jpg" alt="" width="700" height="700" /></a><a onclick="javascript:_gaq.push(['_trackPageview', '/download/play/wp-content/uploads/2012/06/spanishbrunch1.jpg']);"  href="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbrunch1.jpg"><img class="aligncenter size-large wp-image-1362" title="spanishbrunch1" src="http://chadlavigne.com/play/wp-content/uploads/2012/06/spanishbrunch1-700x700.jpg" alt="" width="700" height="700" /></a></p>
+	</div>
+	</div>
+
+</div>
+
+			<div class="box vid">
+			<div class="play-vid">
+			<iframe width="460" height="275" src="http://www.youtube.com/embed/Xi5AEjFHWTw?&rel=0&showinfo=0&autohide=1&version=3?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+			</div>
+
+
+
+<h2>Definitely not Midtown&#8230;</h2>
+
+	<div class="open" id="1010">
+	<div class="close"> </div>
+	<div class="dude">
+		<h2>Definitely not Midtown&#8230;</h2>
+		
+		</div>
 	</div>
 
 </div>
@@ -333,5 +371,5 @@ a:2:{i:0;s:50:"X-Pingback: http://chadlavigne.com/play/xmlrpc.php";i:1;s:38:"Con
 
 </body>
 </html>
-<!-- This Quick Cache file was built for (  chadlavigne.com/play/play/ ) in 7.13707 seconds, on Jun 22nd, 2012 at 5:01 pm UTC. -->
-<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jun 22nd, 2012 at 5:02 pm UTC -->
+<!-- This Quick Cache file was built for (  chadlavigne.com/play/play/ ) in 0.65683 seconds, on Jul 17th, 2012 at 11:58 pm UTC. -->
+<!-- This Quick Cache file will automatically expire ( and be re-built automatically ) on Jul 18th, 2012 at 12:58 am UTC -->
