@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-<html style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);  ">
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" style="background:#000 url(http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/images/chalk.gif);"> <!--<![endif]-->
+
 <head>
 
 
@@ -19,7 +23,6 @@
    src="<?php bloginfo("template_url"); ?>/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript"
    src="<?php bloginfo("template_url"); ?>/js/responsiveslides.min.js"></script>
-
 
 <script type="text/javascript" src="http://fast.fonts.com/jsapi/77fdf8a5-dd8c-485d-a7fd-6ecaf53fba53.js"></script>
 <script type="text/javascript"
