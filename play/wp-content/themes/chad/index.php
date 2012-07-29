@@ -8,21 +8,21 @@ get_header();
 
 <?php
 if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-
+<?php $url = wp_get_attachment_url( get_post_thumbnail_id($post->ID) ); ?>
 <?php if ( in_category('play-big') ) { ?>
            <div class="box big">
            <div class="play-thumb">
-           <?php the_post_thumbnail('play-big') ?>
+           <a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-big') ?></a>
            </div>
 <?php } elseif ( in_category('play-med') ) { ?>
            <div class="box med">
            <div class="play-thumb">
-           <?php the_post_thumbnail('play-med') ?>
+           <a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-med') ?></a>
            </div>
 <?php } elseif ( in_category('play-small') ) { ?>
 			<div class="box med">
 			<div class="play-thumb">
-			<?php the_post_thumbnail('play-med') ?>
+			<a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-med') ?></a>
 			</div>
 <?php } elseif ( in_category('video') ) { ?>
 			<div class="box vid">
