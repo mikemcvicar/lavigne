@@ -15,19 +15,15 @@ query_posts( array( 'category__and' => array(5,6,7)) );
 <?php
 if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 
-<?php $url = wp_get_attachment_url( get_post_thumbnail_id($post->ID) ); ?>
 <?php if ( in_category('play-big') ) { ?>
-	
            <div class="box big">
-			<a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-big') ?></a>
-           
+           <?php the_post_thumbnail('play-big') ?>
 <?php } elseif ( in_category('play-medium') ) { ?>
-	
            <div class="box med">
-           	<a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-med') ?></a>
+           <?php the_post_thumbnail('play-med') ?>
 <?php } elseif ( in_category('play-small') ) { ?>
 			<div class="box med">
-				<a href="<?php echo $url ?>" rel="lightbox[<?php the_ID(); ?>]"><?php the_post_thumbnail('play-med') ?></a>
+			<?php the_post_thumbnail('play-med') ?>
 <?php } else {}?>
 
 

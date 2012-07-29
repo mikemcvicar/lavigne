@@ -28,11 +28,11 @@
 			jQuery('.close').fadeOut();
 		});	
 		  	jQuery('.play-thumb').click(function(event) {
-//			event.preventDefault();
-//			jQuery(this).parent('.box').find('.open').fadeIn();
-//			jQuery(this).parent('.box').find('.close').fadeIn();
-//			var open = jQuery(this).parent('.box').find('.open').height();
-//			console.log(open);
+			event.preventDefault();
+			jQuery(this).parent('.box').find('.open').fadeIn();
+			jQuery(this).parent('.box').find('.close').fadeIn();
+			var open = jQuery(this).parent('.box').find('.open').height();
+			console.log(open);
 			
 			
 		 });
@@ -117,15 +117,15 @@
 			nav: true
 		});
 		  jQuery('.play-thumb').click(function(event) {
-//			event.preventDefault();
-//			jQuery('#sidebar').css({"z-index":"0"});
-//			jQuery(this).parent('.box').find('.open').fadeIn();
-//			jQuery(this).parent('.box').find('.close').fadeIn();
+			event.preventDefault();
+			jQuery('#sidebar').css({"z-index":"0"});
+			jQuery(this).parent('.box').find('.open').fadeIn();
+			jQuery(this).parent('.box').find('.close').fadeIn();
 			
 			
 			
-//			var open = jQuery(this).parent('.box').find('.open').height();
-//			console.log(open);
+			var open = jQuery(this).parent('.box').find('.open').height();
+			console.log(open);
 			
 	
 			
