@@ -48,8 +48,8 @@ lightbox = new Lightbox options
   LightboxOptions = (function() {
 
     function LightboxOptions() {
-      this.fileLoadingImage = 'images/loading.gif';
-      this.fileCloseImage = 'images/close.png';
+      this.fileLoadingImage = 'http://chadlavigne.com/play/wp-content/themes/chad/images/loading.gif';
+      this.fileCloseImage = 'http://chadlavigne.com/play/wp-content/themes/chad/images/close.png';
       this.resizeDuration = 700;
       this.fadeDuration = 500;
       this.labelImage = "Image";

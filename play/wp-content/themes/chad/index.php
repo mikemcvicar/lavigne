@@ -41,13 +41,21 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 	<div class="close"> </div>
 	<div class="dude">
 		<h2><?php the_title(); ?></h2>
-		<div class="image-holder">
+		
 			<?php the_post_thumbnail('play-open') ?>
 	
 			<?php the_content(); ?>
-		</div>
+
 	</div>
 	</div>
+	
+	<script type="text/javascript">
+			$('#<?php the_ID(); ?> img').each(function(index) {
+				var imagehref = $(this).attr('src');
+				$(this).wrap('<a href="'+ imagehref +'" rel="lightbox[<?php the_ID(); ?>]" />')
+			});
+
+	</script>
 
 </div>
 <?php endwhile; else: ?>

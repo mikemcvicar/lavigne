@@ -15,7 +15,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo("template_url"); ?>/css/lightbox.css" /> 
 
 <script type="text/javascript"
-   src="<?php bloginfo("template_url"); ?>/js/jquery-1.4.4.min.js"></script>
+   src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 <script type="text/javascript"
    src="<?php bloginfo("template_url"); ?>/js/jquery.masonry.min.js"></script>
 <script type="text/javascript"

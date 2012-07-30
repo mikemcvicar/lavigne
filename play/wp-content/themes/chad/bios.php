@@ -12,7 +12,7 @@ get_header();
 					<?php
 
 					// The Query
-					query_posts( 'cat=4&order=ASC' );
+					query_posts( 'cat=4&order=ASC&posts_per_page=8' );
 					
 					// The Loop
 					while ( have_posts() ) : the_post(); ?>
@@ -51,7 +51,7 @@ get_header();
 					
 				<div class="arrows">
 				<a class="runload" id="prevarrow" href="<?php bloginfo(siteurl) ?>/press/press" >Previous</a>
-				<a class="runload" id="nextarrow" href="<?php bloginfo(siteurl) ?>/play" >Next</a>
+				<a class="runload" id="nextarrow" href="<?php bloginfo(siteurl) ?>/bios2" >Next</a>
 					</div>
 </div>
 </body>

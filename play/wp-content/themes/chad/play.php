@@ -41,12 +41,16 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 	</div>
 
 </div>
+
+
+
 <?php endwhile; else: ?>
 <p><?php _e('Sorry dude, no posts matched your criteria.'); ?></p>
 <?php endif;
 
 wp_reset_query();
 ?>
+
 
 
 
