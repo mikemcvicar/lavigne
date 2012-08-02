@@ -1,5 +1,6 @@
+/* @override http://chadlavigne.com/play/wp-content/themes/chad/style.css */
+
 /* @override 
-	http://chadlavigne.com/play/wp-content/themes/chad/style.css
 	http://travis-mckinney.com/new/wp-content/themes/mckinney/style.css
 	http://travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/style.css
 	http://www.travis-mckinney.com/chad/htmlmockup/play/wp-content/themes/chad/style.css
@@ -127,8 +128,6 @@ a{
 	color: #fff;
 	text-decoration: none;
 }
-
-
 .trade{
 	font-family:'TradeGothicW02-BoldCn20 675505';
 	font-weight: normal;
@@ -457,9 +456,9 @@ transition: all .75s ease-in-out;
 /* PAGE TEMPLATES */
 
 #welcome{
-	width: 655px;
+	width: 695px;
 	position: relative;
-	top: 270px;
+	top: 230px;
 
 }
 #welcome h2{
@@ -485,10 +484,9 @@ transition: all .75s ease-in-out;
 #welcome h5 {
 font-family:'Clarendon W01 Light';
 font-weight: normal;
-font-size: 18px;
+font-size: 27px;
 line-height: 1.2;
 padding-bottom: 16px;
-\
 	
 }
 
@@ -498,19 +496,6 @@ padding-bottom: 16px;
 	top: 110px;
 	
 }
-
-#contact a {
-	color: #ffffff;
-	font: 13px 'TradeGothicW02-BoldCn20 675505';
-	text-transform: uppercase;
-	letter-spacing: 1px;
-	float: left;
-}
-
-#contact a:hover {
-	text-decoration: underline;
-}
-
 /* BIOS */
 #bios{
 	position: absolute;
@@ -629,46 +614,37 @@ a.rslides_nav.next{
 	color: #000;
 }
 #intro{
-	position: relative;
+	position: absolute;
 	z-index: 100;
 	}
-#intro img{
-	z-index: 1;
-	zoom: 1;
-}
 #intro a{
 	float: left;
 	display: block;
 	text-indent: -9999px;
-	zoom: 1;
 }
 #towork{
 	height: 32%;
 	left: 25%;
 	width: 48%;
 	top: 19%;
-	zoom: 1;
+	
 	z-index: 9999;
-	background: url('ie-fix.jpg');
 }
 #toplay{
 	height: 32%;
 	left: 25%;
 	width: 48%;
 	top: 50%;
-	zoom: 1;
-	z-index: 9999;
-	background: url('ie-fix.jpg');
 	
+	z-index: 9999;
 }
 #tocase{
 	height: 5%;
 	left: 42%;
 	width: 16%;
 	top: 46%;
-	zoom: 1;
+	
 	z-index: 99999;
-	background: url('ie-fix.jpg');
 }
 
 
@@ -677,23 +653,21 @@ a.rslides_nav.next{
 	left: 60%;
 	width: 11%;
 	top: 42%;
-	zoom: 1;
+	
 	z-index: 99999;
-	background: url('ie-fix.jpg');
 }
 #toclients{
 	height: 7%;
 	left: 29%;
 	width: 11%;
 	top: 48%;
-	zoom: 1;
+	
 	z-index: 99999;
-	background: url('ie-fix.jpg');
 }
 video#introvid{
 	position: relative;
 	z-index: 9999;
-	zoom: 1;
+	
 	
 }
 .coda-nav{
@@ -923,37 +897,6 @@ img#preloader{
 	font-family:'Clarendon W01 Light';
 }
 
- 
-.lt-ie9 #welcome{
-	left: 55px;
-}
-.lt-ie9 #logo{
-	left: 55px;
-}
-.lt-ie9 #case-studies{
-	left: 55px;
-}
-.lt-ie9 #cases{
-	left: 55px;
-}
-.lt-ie9 #contact{
-	left: 55px;
-}
-.lt-ie9 #bios{
-	left: 55px;
-}
-.lt-ie9 .arrows{
-	left: 55px;
-}
-.lt-ie9 #play{
-	left: 55px;
-}
-.lt-ie9 #sidebar{
-	left: 855px;
-}
-
-
-
 @media (min-width:1100px) {
 	#welcome{
 		left: 5%;
@@ -988,7 +931,7 @@ img#preloader{
 	
 }
 
-@media (min-width:1400px) {
+@media (min-width:1350px) {
 	 #welcome{
 	  left: 15%;
 	 }
@@ -1014,7 +957,7 @@ img#preloader{
 	  left: 15%;
 	 }
 	 #sidebar{
-	  left: 75%;
+	  left: 70%;
 	 }
 
   
