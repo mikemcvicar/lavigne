@@ -51,8 +51,12 @@ if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 	
 	<script type="text/javascript">
 			$('#<?php the_ID(); ?> img').each(function(index) {
-				var imagehref = $(this).attr('src');
-				$(this).wrap('<a href="'+ imagehref +'" rel="lightbox[<?php the_ID(); ?>]" />')
+				var imageparent = $(this).parent();
+				if ( !($(imageparent).is('a'))){
+					var imagehref = $(this).attr('src');
+					var imagecaption = $(this).attr('title');
+					$(this).wrap('<a href="'+ imagehref +'" rel="lightbox[<?php the_ID(); ?>]" title="<?php the_title(); ?> - '+ imagecaption +'" />');
+				}
 			});
 
 	</script>

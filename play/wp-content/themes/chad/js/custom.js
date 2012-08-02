@@ -22,6 +22,16 @@
 		  function( newElements ) {
     		var $newElems = $( newElements );
     		jQuery('#play').masonry( 'appended', $newElems );
+			jQuery('.dude img').each( function(){
+				
+				var imageparent = $(this).parent();
+				if ( !($(imageparent).is('a'))){
+					var imgid = jQuery(this).parents('.open').attr('id');
+					var imgsrc = jQuery(this).attr('src');
+					var imagecaption = $(this).attr('title');
+					jQuery(this).wrap('<a href="'+ imgsrc +'" rel="lightbox['+ imgid +']" title="'+ imagecaption +'" />');
+				}
+			});
 		  	jQuery('.close').click(function() {
 			
 			jQuery('.open').fadeOut();
